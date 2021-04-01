@@ -1,4 +1,6 @@
-|Read         |URL                                                                          |
+# Nedal
+
+| Read        | UR                                                                            |
 | ----------- | ----------------------------------------------------------------------------- |
 | Rrad01      | [read01](/mnt/c/Users/LTUC/desktop/amman-102d27/reading-note/read01.md)       |
 | Rrad02      | [Text02](/mnt/c/Users/LTUC/desktop/amman-102d27/reading-note/read02.md)       |
