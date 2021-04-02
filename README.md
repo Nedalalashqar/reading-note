@@ -7,4 +7,4 @@
 | Rrad03      | [read03](/mnt/c/Users/LTUC/desktop/amman-102d27/reading-note/read03.md)       |
 | Rrad04      | [read04](/mnt/c/Users/LTUC/desktop/amman-102d27/reading-note/read05.md)       |
 | Rrad05      | [read05](/mnt/c/Users/LTUC/desktop/amman-102d27/reading-note/read5.md)        |
-| Lab01       | [lab01](/mnt/c/Users/LTUC/desktop/reading-note/lab01a.md)                     |
+| Lab02       | [lab02](/mnt/c/Users/LTUC/desktop/reading-note/lab01a.md)                     |
