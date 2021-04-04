@@ -1,4 +1,4 @@
-#A SCRIPT IS A SERI ES OF INSTRUCTIONS
+# A SCRIPT IS A SERI ES OF INSTRUCTIONS
 >A script is a series of instructions that a computer can follow to achieve a goal. You could compare scripts to any of the following :
 *RECIPES*
 >By fo llowing the instructions in a recipe, one-by-one in the order set out, cooks can create a dish they have never made before.
@@ -7,7 +7,7 @@
 *MANUALS*
 >Mechanics often refer to car repair manuals when servicing models they are not familiar with. These manuals contain a series of tests to check the key functions of the car are working, along with details of how to fix any issues that arise.
 
-#WRITING A SCRIPT
+# WRITING A SCRIPT
 *1: DEFINE THE GOAL*
 >First, you need to define the task you want to achieve. You can think of this as a puzzle for the computer to solve.
 *2: DESIGN THE SCRIPT*
