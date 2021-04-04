@@ -8,5 +8,5 @@
 | Rrad04      | [read04](/mnt/c/Users/LTUC/desktop/amman-102d27/reading-note/read05.md)       |
 | Rrad05      | [read05](/mnt/c/Users/LTUC/desktop/amman-102d27/reading-note/read5.md)        |
 | Lab02a      | [lab02a](/mnt/c/Users/LTUC/desktop/reading-note/lab01a.md)                    |
-| read06      | [read06](/mnt/c/Users/LTUC/desktop/reading-note/read06.md)                    |
+| read06      | [read06](read06.md)                    |
 | Lab02b      | [lab02b](/mnt/c/Users/LTUC/desktop/reading-note/lab02b.md)                    |
