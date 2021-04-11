@@ -20,7 +20,7 @@
 
 | Read (code 201)| UR                                                                            |
 | -------------- | ----------------------------------------------------------------------------- |
-|Read01          |[class-01](Introductory HTML and JavaScript.md)                                |
+|Read01          |[class-01](IntroductoryHTMLandJavaScript.md)                                |
 |Read02          |                                                                               |
 |Read03          |                                                                               |
 |Read04          |                                                                               |
