@@ -20,9 +20,9 @@
 
 | Read (code 201)| UR                                                                            |
 | -------------- | ----------------------------------------------------------------------------- |
-|Read01          |[class-01](class01.md)                                   |
-|Read02          |[class-02](class02.md)                                   |
-|Read03          |                                                                               |
+|Read01          |[class-01](class01.md)                                                         |
+|Read02          |[class-02](class02.md)                                                         |
+|Read03          |[class-03](class03.md)                                                         |
 |Read04          |                                                                               |
 |Read05          |                                                                               |
 |Read06          |                                                                               |
