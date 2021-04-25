@@ -31,7 +31,7 @@
 |Read09          |[class-09](class09.md)                                                         |
 |Read10          |[class-10](class10.md)                                                         |
 |Read11          |[class-11](class11.md)                                                         |
-|Read12          |                                                                               |
+|Read12          |[class-12](class12.md)                                                         |
 |Read13          |                                                                               |
 |Read14          |                                                                               |
 |Read15          |                                                                               |
