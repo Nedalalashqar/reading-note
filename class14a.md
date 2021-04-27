@@ -33,3 +33,20 @@
 * *Develop learning agility:* Instead of defaulting to the “tried and true” (which pragmatists tend to do), be open to trying varied approaches and new ideas.
 * *Find joy in ambiguity:* Practice coping with uncertainty and making decisions without having all the information beforehand.
 * *Put your social leadership skills to the test:* When was the last time you motivated influenced others or deeply connected with your teammates? You might come to find that you actually enjoy it.
+
+***Transforms CSS3***
+
+> *Definition and Usage :* The transform property applies a 2D or 3D transformation to an element. This property allows you to rotate, scale, move, skew, etc., elements.
+
+***CSS Transitions***
+
+> CSS transitions allows you to change property values smoothly, over a given duration.
+
+***How to Use CSS Transitions?***
+
+> To create a transition effect, you must specify two things:
+
+* the CSS property you want to add an effect to
+* the duration of the effect
+
+> If the duration part is not specified, the transition will have no effect, because the default value is 0.
