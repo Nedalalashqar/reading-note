@@ -40,13 +40,14 @@
 
 
 
+
 ## Code 301 Reading Notes
 
 | Read (code 201)| UR                                                                            |
 | -------------- | ----------------------------------------------------------------------------- |
 |Read01          |[class01](301/class01.md)                                                      |
 |Read02          |[class02](301/class02.md)                                                      |
-|Read03          |                                                                               |
+|Read03          |[class03](301/class03.md)                                                      |
 |Read04          |                                                                               |
 |Read05          |                                                                               |
 |Read06          |                                                                               |
