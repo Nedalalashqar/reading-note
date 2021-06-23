@@ -48,8 +48,8 @@
 |Read01          |[class01](301/class01.md)                                                      |
 |Read02          |[class02](301/class02.md)                                                      |
 |Read03          |[class03](301/class03.md)                                                      |
-|Read04          |                                                                               |
-|Read05          |                                                                               |
+|Read04          |[class04](301/class04.md)                                                      |
+|Read05          |[class05](301/class05.md)                                                      |
 |Read06          |                                                                               |
 |Read07          |                                                                               |
 |Read08          |                                                                               |
