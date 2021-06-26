@@ -50,7 +50,7 @@
 |Read03          |[class03](301/class03.md)                                                      |
 |Read04          |[class04](301/class04.md)                                                      |
 |Read05          |[class05](301/class05.md)                                                      |
-|Read06          |                                                                               |
+|Read06          |[class06](301/class06.md)                                                      |
 |Read07          |                                                                               |
 |Read08          |                                                                               |
 |Read09          |                                                                               |
