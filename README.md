@@ -51,9 +51,9 @@
 |Read04          |[class04](301/class04.md)                                                      |
 |Read05          |[class05](301/class05.md)                                                      |
 |Read06          |[class06](301/class06.md)                                                      |
-|Read07          |[class07](301/class07.md)                                                                               |
-|Read08          |[class08](301/class08.md)                                                                               |
-|Read09          |                                                                               |
+|Read07          |[class07](301/class07.md)                                                      |
+|Read08          |[class08](301/class08.md)                                                      |
+|Read09          |[class09](301/class09.md)                                                      |
 |Read10          |                                                                               |
 |Read11          |                                                                               |
 |Read12          |                                                                               |
