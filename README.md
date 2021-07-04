@@ -43,7 +43,7 @@
 
 ## Code 301 Reading Notes
 
-| Read (code 201)| UR                                                                            |
+| Read (code 301)| UR                                                                            |
 | -------------- | ----------------------------------------------------------------------------- |
 |Read01          |[class01](301/class01.md)                                                      |
 |Read02          |[class02](301/class02.md)                                                      |
@@ -56,7 +56,7 @@
 |Read09          |[class09](301/class09.md)                                                      |
 |Read10          |[class10](301/class10.md)                                                      |
 |Read11          |[class11](301/class11.md)                                                      |
-|Read12          |                                                                               |
+|Read12          |[class12](301/class12.md)                                                      |
 |Read13          |                                                                               |
 |Read14a         |                                                                               |
 |Read14b         |                                                                               |
