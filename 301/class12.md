@@ -2,10 +2,11 @@
 
 |     SQL        | NoSQL                                                                                       |
 | --------------          | ---------------------------------------------------------------------------------- |
-|relational databases	  |[class01](301/class01.md)                                                           |
-|table-based	          |[class02](301/class02.md)                                                           |
-|small data sets, not good for hierarchical storage	 |[class03](301/class03.md)                                |
-|vertically scalable (can increase load by increasing variables such as CPU and RAM)|[class04](301/class04.md) |
+|relational databases		  |non-relational databases                                                            |
+|table-based	          |document based, key-value pairs, graph, or wide-column                              |
+|small data sets, not good for hierarchical storage	 |can handle large data sets, and good for hierarchical storage  |
+|good for complex queries	|not good for complex queries |
+|vertically scalable (can increase load by increasing variables such as CPU and RAM)|horizontally scalable (add more servers for handling more traffic) |
 
 > Database best for hierarchical storage: NoSQL
 > Database best for scalability: SQL
