@@ -65,20 +65,21 @@
 
 ## Code 401 Reading Notes
 
-| Read (code 401)| UR                                                                            |
-| -------------- | ----------------------------------------------------------------------------- |
-|Read01          |[class01](401/class01.md)                                                      |
-|Read02          |[class02](401/class02.md)                                                      |
-|Read03          |[class03](401/class03.md)                                                      |
-|Read04          |[class04](401/class04.md)                                                      |
-|Read05          |                                                                               |
-|Read06          |                                                                               |
-|Read07          |                                                                               |
-|Read08          |                                                                               |
-|Read09          |                                                                               |
-|Read10          |                                                                               |
-|Read11          |                                                                               |
-|Read12          |                                                                               |
-|Read13          |                                                                               |
-|Read14          |                                                                               |
-|Read15          |                                                                               |
+| Read (code 401) | UR                                                                            |
+| --------------  | ----------------------------------------------------------------------------- |
+|Read01           |[class01](401/class01.md)                                                      |
+|Read02           |[class02](401/class02.md)                                                      |
+|Read03           |[class03](401/class03.md)                                                      |
+|Read04           |[class04](401/class04.md)                                                      |
+|Read Linked Lists|[LinkedLists](401/LinkedLists.md)                                              |
+|Read05           |                                                                               |
+|Read06           |                                                                               |
+|Read07           |                                                                               |
+|Read08           |                                                                               |
+|Read09           |                                                                               |
+|Read10           |                                                                               |
+|Read11           |                                                                               |
+|Read12           |                                                                               |
+|Read13           |                                                                               |
+|Read14           |                                                                               |
+|Read15           |                                                                               |
