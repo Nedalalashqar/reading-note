@@ -34,7 +34,7 @@
 
 ## What’s the primary difference between ES6 Classes and Constructor/Prototype Classes?
 > **ES6 class :** This can be said to be a syntax base for constructor functions and instantiate objects using a new operator.
-> **ES5 constructors :** This also uses a new operator for object creation but focuses on how the objects are being instantiated.
+> **ES6 constructors :** This also uses a new operator for object creation but focuses on how the objects are being instantiated.
 
 ## Why REST?
 > REST aims to make caching easier. Since the server is stateless and each request can be processed individually, GET requests should usually return the same response regardless of previous ones and the session. This makes the GET requests easily cacheable and browsers usually treat them as such.
