@@ -70,7 +70,7 @@
 |Read01          |[class01](401/class01.md)                                                      |
 |Read02          |[class02](401/class02.md)                                                      |
 |Read03          |[class03](401/class03.md)                                                      |
-|Read04          |                                                                               |
+|Read04          |[class04](401/class04.md)                                                      |
 |Read05          |                                                                               |
 |Read06          |                                                                               |
 |Read07          |                                                                               |
