@@ -73,8 +73,8 @@
 |Read04           |[class04](401/class04.md)                                                      |
 |Read Linked Lists|[LinkedLists](401/LinkedLists.md)                                              |
 |Read06           |[class06](401/class06.md)                                                      |
-|Read07           |[class07](401/class07.md)                                                                               |
-|Read08           |                                                                               |
+|Read07           |[class07](401/class07.md)                                                      |
+|Read08           |[class07](401/class08.md)                                                      |
 |Read09           |                                                                               |
 |Read10           |                                                                               |
 |Read11           |                                                                               |
