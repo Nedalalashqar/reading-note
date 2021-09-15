@@ -90,3 +90,4 @@
 |Read21           |[class21](401/class21.md)                                                      |
 |Read22           |[class22](401/class22.md)                                                      |
 |Read23           |[class23](401/class23.md)                                                      |
+|Read24           |[class24](401/class24.md)                                                      |
